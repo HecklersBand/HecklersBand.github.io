@@ -183,6 +183,18 @@ h4, img {
 	margin: 0 auto 30px;
 }
 
+#cdBabyIframeWrapper {
+	padding: 0 10px;
+	width: 100%;
+	max-width: 1000px;
+	overflow: hidden;
+	margin: 20px auto;
+}
+
+#cdBabyIframeWrapper iframe {
+	margin: 0 auto;
+}
+
 #player {
 	margin: 0 auto;	
 }
@@ -192,7 +204,7 @@ h4, img {
 	max-width: 560px;
 	overflow: hidden;
 	border-radius: 45px;
-	margin: 0 auto;
+	margin: 20px auto;
 	text-align: center;
 }
 
